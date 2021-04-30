@@ -1,0 +1,1 @@
+package kz.iitu.lms.demo.model;public enum RoleM {    USER,    ADMIN}
